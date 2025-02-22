@@ -1,0 +1,44 @@
+{
+    "offsets": {
+        "uworld": "0x174A8638",
+        "relativelocation": "0x138",
+        "owningworld": "0xB8",
+        "acknowledgedpawn": "0x350",
+        "mesh": "0x328",
+        "rootcomponent": "0x1B0",
+        "localplayers": "0x38",
+        "playercontroller": "0x30",
+        "gameinstance": "0x208",
+        "pawnprivate": "0x320",
+        "gamestate": "0x190",
+        "playerarray": "0x2C0",
+        "teamindex": "0x1259",
+        "playerstate": "0x2C8",
+        "lastsubmittime": "0x2E8",
+        "lastrendertime": "0x30C",
+        "velocity": "0x180",
+        "bonearray": "0x5A8",
+        "bonecache": "0x5C8",
+        "persistentlevel": "0x40",
+        "componenttoworld": "0x1E0",
+        "platform": "0x430",
+        "targetedfortpawn": "0x1980",
+        "habanerocomponent": "0xA38",
+        "rankedprogress": "0xD0",
+        "username": "0x40",
+        "projectilespeed": "0x1DB8",
+        "projectilegravity": "0x1DD4"
+        "basefov": "0x370"
+        "defaultfov": 0x2bc
+
+    },
+    "weaponoffsets": {
+        "currentweapon": "0xA80",
+        "weapondata": "0x600",
+        "ammocount": "0xFA4",
+        "itemname": "0x40",
+        "tier": "0xEB",
+        "color": "0x50",
+        "isreloading": "0x3b9"
+    }
+}
