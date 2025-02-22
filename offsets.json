@@ -17,7 +17,7 @@
         "lastsubmittime": "0x2E8",
         "lastrendertime": "0x30C",
         "velocity": "0x180",
-        "bonearray": "0x5A8",
+        "bonearray": "0x5C8",
         "bonecache": "0x5C8",
         "persistentlevel": "0x40",
         "componenttoworld": "0x1E0",
@@ -28,8 +28,6 @@
         "username": "0x40",
         "projectilespeed": "0x1DB8",
         "projectilegravity": "0x1DD4"
-        "basefov": "0x370"
-        "defaultfov": 0x2bc
 
     },
     "weaponoffsets": {
