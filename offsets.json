@@ -18,7 +18,7 @@
         "lastrendertime": "0x30C",
         "velocity": "0x180",
         "bonearray": "0x5C8",
-        "bonecache": "0x5C8",
+        "bonecache": "0x5B8",
         "persistentlevel": "0x40",
         "componenttoworld": "0x1E0",
         "platform": "0x430",
